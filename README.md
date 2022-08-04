@@ -1,3 +1,4 @@
+<!--
 [![Twitter Badge](https://img.shields.io/badge/-@saidi_sinz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[https://twitter.com/saidi_sinz](https://twitter.com/saidi_sinz))]([https://twitter.com/saidi_sinz](https://twitter.com/saidi_sinz)) 
 [![Linkedin Badge](https://img.shields.io/badge/-sinnerd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/sinnerd/)
 [![Gmail Badge](https://img.shields.io/badge/-saidiislam05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](mailto:saidiislam05@gmail.com)
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!--
 <a href="https://discord.gg/r8GAg8pN">
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/10536936/ali-zedan">
   <img align="left" alt="Ali's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
--->
+
 
 ![]()
 
@@ -70,7 +71,7 @@ Check out [my website](https://af.codes)
 
 ---
 
-<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats
 <div align="right">
   <a href="https://github.com/lkotlarenko#user-activity-overview">
     <img align="center" src="https://github-readme-stats-lkotlarenko.vercel.app/api/top-langs?username=lkotlarenko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" alt="lkotlarenko top languages used" />
