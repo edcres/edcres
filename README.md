@@ -1,5 +1,3 @@
-<!--
-
 [![Linkedin Badge](https://img.shields.io/badge/-edcres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/sinnerd/)
 [![Gmail Badge](https://img.shields.io/badge/-crespoed07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](mailto:crespoed07@gmail.com)
 <a href="https://discord.gg/r8GAg8pN">
@@ -14,19 +12,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&height=30&lines=👋+Welcome+to+My+Portfolio!;+I+am+Eduardo+Crespo,+Native+Android+Developer.)](https://git.io/typing-svg)
 
-### Portfolio Projects (Most interesting ones first):
+### Portfolio Projects (most interesting ones first):
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
-<!--
-<img align="right" src="https://github-readme-stats-lkotlarenko.vercel.app/api/top-langs?username=edcres&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=3" height="200" alt="edcres top languages used" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
-- [Crypto Market](https://github.com/edcres/crypto-market)
-- [Coral Reef Rentals](https://github.com/edcres/c-r-rentals)
-- [House Mate](https://github.com/edcres/house-mate)
-- [Rate Cats](https://github.com/edcres/rate-cats)
-- [Gym Routine](https://github.com/edcres/gym-routine)
-- [Belt Tools](https://github.com/edcres/belt-tools)
-
+- [Crypto Market](https://github.com/edcres/crypto-market): List over 2,000 crypto coins and display their data including prices using charts. Among other things.
+- [Coral Reef Rentals](https://github.com/edcres/c-r-rentals): Keep track of rental items through pictures and more data.
+- [House Mate](https://github.com/edcres/house-mate): House mates share realtime data through a remote firestore database.
+- [Rate Cats](https://github.com/edcres/rate-cats): Showcases retrofit2 requests using images from an API.
+- [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts bases on sets and reps using 2 one-to-many SQLite relationships.
+- [Belt Tools](https://github.com/edcres/belt-tools): Compares an old app I created to help at a hardware job and an updated (simple) version.
 
 **Tools:**
 
