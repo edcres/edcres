@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100" height="75" />
+<!--
 
 [![Linkedin Badge](https://img.shields.io/badge/-edcres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/sinnerd/)
 [![Gmail Badge](https://img.shields.io/badge/-crespoed07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](mailto:crespoed07@gmail.com)
@@ -17,6 +17,7 @@
 ### Portfolio Projects (Most interesting ones first):
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
+<!--
 <img align="right" src="https://github-readme-stats-lkotlarenko.vercel.app/api/top-langs?username=edcres&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=3" height="200" alt="edcres top languages used" />
 
 - [Crypto Market](https://github.com/edcres/crypto-market)
