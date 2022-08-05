@@ -1,14 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-edcres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/sinnerd/)
-[![Gmail Badge](https://img.shields.io/badge/-crespoed07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](mailto:crespoed07@gmail.com)
-<a href="https://discord.gg/r8GAg8pN">
-  <img align="left" alt="Ali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alizedan/">
-  <img align="left" alt="Ali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://stackoverflow.com/users/10536936/ali-zedan">
-  <img align="left" alt="Ali's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-edcres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/eduardo-crespo-a63932247/)
+[![Gmail Badge](https://img.shields.io/badge/-crespoed07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](https://github.com/edcres)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&height=30&lines=👋+Welcome+to+My+Portfolio!;+I+am+Eduardo+Crespo,+Native+Android+Developer.)](https://git.io/typing-svg)
 
