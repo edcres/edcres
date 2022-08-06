@@ -1,3 +1,4 @@
+<!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 [![Linkedin Badge](https://img.shields.io/badge/-edcres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/eduardo-crespo-a63932247/)
 [![Gmail Badge](https://img.shields.io/badge/-crespoed07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](https://mail.google.com/mail/u/0/?fs=1&to=crespoed07@gmail.com&tf=cm)
 
@@ -15,30 +16,22 @@
 - [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts bases on sets and reps using 2 one-to-many SQLite relationships.
 - [Belt Tools](https://github.com/edcres/belt-tools): Compares an old app I created to help at a hardware job and an updated (simple) version.
 
-**Tools:**
+---
 
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
+### Tools and Skills:
+<!--https://simpleicons.org/-->
+[![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![JAVA](https://img.shields.io/badge/JAVA-a8732f?&style=for-the-badge)](https://github.com/edcres)
+[![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/edcres)
+[![SQLITE](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![FIREBASE REALTIME DB](https://img.shields.io/badge/firebase%20realtime%20db-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
+[![FIREBASE REALTIME DB](https://img.shields.io/badge/firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
+[![MATERIAL DESIGN](https://img.shields.io/badge/Material%20Design-757575?logo=Material-Design&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![GRADLE](https://img.shields.io/badge/graddle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://angular.io/" target="_blank"> <img align="left" alt="Angular" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
+**Others:**
+Jetpack Navigation, MVVM, XML, Coroutines, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Room, Logging, Moshi, Glide, Charting with MPAndroidChart, REST
 
 ---
 
@@ -49,10 +42,8 @@
     My priority is to learn what's most useful to solve the challenge at hand.
     For the near future I'm interested in learning React Native or Flutter, and Jetpack compose.
     
-    Currently looking to collaborate on open source.
+    Currently looking to collaborate on open source Android projects.
     Preferably reach me on linked in.
 
 ![]()
-
-[![Javascript Golf Solitaire link](https://project-assets.showwcase.com/16379/1657713591120-1.png)](https://ozboware.github.io/Javascript-Golf-Solitaire/)
 
