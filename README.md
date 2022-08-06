@@ -20,6 +20,7 @@
 
 ### Tools and Skills:
 <!--https://simpleicons.org/-->
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 [![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 [![JAVA](https://img.shields.io/badge/JAVA-a8732f?&style=for-the-badge)](https://github.com/edcres)
 [![MVVM](https://img.shields.io/badge/MVVM-ed9242?&style=for-the-badge)](https://github.com/edcres)
