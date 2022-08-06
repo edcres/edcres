@@ -22,16 +22,18 @@
 <!--https://simpleicons.org/-->
 [![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 [![JAVA](https://img.shields.io/badge/JAVA-a8732f?&style=for-the-badge)](https://github.com/edcres)
+[![MVVM](https://img.shields.io/badge/MVVM-ed9242?&style=for-the-badge)](https://github.com/edcres)
 [![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/edcres)
 [![SQLITE](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 [![FIREBASE REALTIME DB](https://img.shields.io/badge/firebase%20realtime%20db-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
 [![FIREBASE REALTIME DB](https://img.shields.io/badge/firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
 [![MATERIAL DESIGN](https://img.shields.io/badge/Material%20Design-757575?logo=Material-Design&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![JETPACK NAVIGATION](https://img.shields.io/badge/Jetpack%20Navigation-6b52bf?&style=for-the-badge)](https://github.com/edcres)
 [![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 [![GRADLE](https://img.shields.io/badge/graddle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 
 **Others:**
-Jetpack Navigation, MVVM, XML, Coroutines, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Room, Logging, Moshi, Glide, Charting with MPAndroidChart, REST
+XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Logging, Moshi, Glide, Charting with MPAndroidChart, REST
 
 ---
 
