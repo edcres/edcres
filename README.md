@@ -10,12 +10,13 @@
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
 - [Crypto Market](https://github.com/edcres/crypto-market): List over 2,000 crypto coins and display their data including prices using charts. Among other things.
-- [Coral Reef Rentals](https://github.com/edcres/c-r-rentals): Keep track of rental items through pictures and more data.
+- [![Coral Reef Rentals](https://github.com/edcres/c-r-rentals)](https://github.com/edcres/c-r-rentals): Keep track of rental items through pictures and more data.
 - [House Mate](https://github.com/edcres/house-mate): House mates share realtime data through a remote firestore database.
 - [Rate Cats](https://github.com/edcres/rate-cats): Showcases retrofit2 requests using images from an API.
 - [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts bases on sets and reps using 2 one-to-many SQLite relationships.
 - [Belt Tools](https://github.com/edcres/belt-tools): Compares an old app I created to help at a hardware job and an updated (simple) version.
 
+### My latest 2 apps:
 <p align="left" style="display:flex">
     <a href="https://github.com/edcres/crypto-market">
         <img width=132 src="https://user-images.githubusercontent.com/79296181/183276703-95e14097-c6f2-42f5-9e6f-37fc187833d4.gif" />
