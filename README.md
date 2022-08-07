@@ -50,7 +50,7 @@
 [![GRADLE](https://img.shields.io/badge/graddle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 
 **More:**
-XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Logging, Moshi, Glide, Charting with MPAndroidChart, REST
+XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Logging, Moshi, Glide, Charting with MPAndroidChart, REST, Camera, Image Storage
 
 ---
 
