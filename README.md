@@ -16,6 +16,12 @@
 - [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts bases on sets and reps using 2 one-to-many SQLite relationships.
 - [Belt Tools](https://github.com/edcres/belt-tools): Compares an old app I created to help at a hardware job and an updated (simple) version.
 
+<p style="display:flex">
+    <a href="https://github.com/edcres/crypto-market">
+        <img width=132 src="https://user-images.githubusercontent.com/79296181/183276703-95e14097-c6f2-42f5-9e6f-37fc187833d4.gif" />
+    </a>
+</p>
+
 ---
 
 ### Tools and Skills:
