@@ -59,7 +59,7 @@ XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecyc
     I approach these problems with practical goals and attention to detail in a time efficient way.
     
     My priority is to learn what's most useful to solve the challenge at hand.
-    When choosing a new project, I aim to challenge myself and learn new things.
+    When choosing a new project, I aim to challenge myself and learn new skills.
     For the near future I'm interested in learning React Native or Flutter, and Jetpack compose.
     
     Currently looking to collaborate on open source Android projects.
