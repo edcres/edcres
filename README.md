@@ -24,7 +24,7 @@
     <a href="https://github.com/edcres/crypto-market">
         <img width=132 src="https://user-images.githubusercontent.com/79296181/183283293-90feb379-e79d-4777-b5c0-155c446d7988.gif" />
     </a>
-    -
+    .
     <a href="https://github.com/edcres/c-r-rentals">
         <img width=132 src="https://user-images.githubusercontent.com/79296181/183285510-cbbb301a-f828-4c8b-8020-4ed4b40741f3.gif" />
     </a>
