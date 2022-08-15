@@ -13,7 +13,7 @@
 - [Coral Reef Rentals](https://github.com/edcres/c-r-rentals): Keep track of rental items through pictures and more data.
 - [House Mate](https://github.com/edcres/house-mate): House mates share realtime data through a remote firestore database.
 - [Rate Cats](https://github.com/edcres/rate-cats): Showcases retrofit2 requests using images from an API.
-- [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts bases on sets and reps using 2 one-to-many SQLite relationships.
+- [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts based on sets and reps using 2 one-to-many SQLite relationships.
 - [Belt Tools](https://github.com/edcres/belt-tools): Compares an old app I created to help at a hardware job and an updated (simple) version.
 
 ### My latest 2 apps:
