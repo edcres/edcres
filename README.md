@@ -52,7 +52,7 @@
 [![MATERIAL DESIGN](https://img.shields.io/badge/Material%20Design-757575?logo=Material-Design&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 [![JETPACK NAVIGATION](https://img.shields.io/badge/Jetpack%20Navigation-6b52bf?&style=for-the-badge)](https://github.com/edcres)
 [![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/edcres)
-[![GRADLE](https://img.shields.io/badge/graddle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![GRADLE](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/edcres)
 
 **More:**
 XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Logging, Moshi, Glide, Charting with MPAndroidChart, REST, Camera, Image Storage
