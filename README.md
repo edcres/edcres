@@ -9,7 +9,7 @@
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
-- [Crypto Market](https://github.com/edcres/crypto-market): List over 2,000 crypto coins and display their data including prices using charts. Among other things.
+- [Crypto Market](https://github.com/edcres/crypto-market): Lists over 2,000 crypto coins and display their data including prices using charts. Among other things.
 - [Coral Reef Rentals](https://github.com/edcres/c-r-rentals): Keep track of rental items through pictures and more data.
 - [House Mate](https://github.com/edcres/house-mate): House mates share realtime data through a remote firestore database.
 - [Rate Cats](https://github.com/edcres/rate-cats): Showcases retrofit2 requests using images from an API.
