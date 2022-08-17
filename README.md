@@ -4,13 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&height=30&lines=👋+Welcome+to+My+Portfolio!;+I+am+Eduardo+Crespo,+Native+Android+Developer.)](https://git.io/typing-svg)
 
-### Portfolio Projects (most interesting ones first):
+### Portfolio Projects:
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
 
+Latest:
 - [Crypto Market](https://github.com/edcres/crypto-market): Lists over 2,000 crypto coins and displays their data including prices using charts. Among other things.
 - [Coral Reef Rentals](https://github.com/edcres/c-r-rentals): Keep track of rental items through captured images and more data about the item.
+
+Others:
 - [House Mate](https://github.com/edcres/house-mate): House mates share real time lists and more data through a remote firestore database.
 - [Rate Cats](https://github.com/edcres/rate-cats): Showcases retrofit2 requests using images from an API.
 - [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts based on sets and reps using 2 one-to-many SQLite relationships.
