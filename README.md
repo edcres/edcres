@@ -4,6 +4,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&height=30&lines=👋+Welcome+to+My+Personal+Projects!;+I+am+Eduardo+Crespo,+Native+Android+Developer.)](https://git.io/typing-svg)
 
+### Tools and Skills:
+<!--https://simpleicons.org/-->
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![JAVA](https://img.shields.io/badge/JAVA-a8732f?&style=for-the-badge)](https://github.com/edcres)
+[![MVVM](https://img.shields.io/badge/MVVM-ed9242?&style=for-the-badge)](https://github.com/edcres)
+[![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/edcres)
+[![SQLITE](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![FIREBASE REALTIME DB](https://img.shields.io/badge/firebase%20realtime%20db-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
+[![FIREBASE REALTIME DB](https://img.shields.io/badge/firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
+[![MATERIAL DESIGN](https://img.shields.io/badge/Material%20Design-757575?logo=Material-Design&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![JETPACK NAVIGATION](https://img.shields.io/badge/Jetpack%20Navigation-6b52bf?&style=for-the-badge)](https://github.com/edcres)
+[![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+[![GRADLE](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/edcres)
+
+**More:**
+XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Logging, Moshi, Glide, Charting with MPAndroidChart, REST, Camera API, Image Storage
+
+---
+
 ### Portfolio Projects:
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
@@ -39,26 +59,6 @@ Others:
         <img width=150 src="https://user-images.githubusercontent.com/79296181/183285528-196ec090-ff85-4a1c-886b-e43677df55f8.gif" />
     </a>
 </p>
-
----
-
-### Tools and Skills:
-<!--https://simpleicons.org/-->
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/edcres)
-[![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://github.com/edcres)
-[![JAVA](https://img.shields.io/badge/JAVA-a8732f?&style=for-the-badge)](https://github.com/edcres)
-[![MVVM](https://img.shields.io/badge/MVVM-ed9242?&style=for-the-badge)](https://github.com/edcres)
-[![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/edcres)
-[![SQLITE](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge)](https://github.com/edcres)
-[![FIREBASE REALTIME DB](https://img.shields.io/badge/firebase%20realtime%20db-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![FIREBASE REALTIME DB](https://img.shields.io/badge/firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/edcres)
-[![MATERIAL DESIGN](https://img.shields.io/badge/Material%20Design-757575?logo=Material-Design&logoColor=white&style=for-the-badge)](https://github.com/edcres)
-[![JETPACK NAVIGATION](https://img.shields.io/badge/Jetpack%20Navigation-6b52bf?&style=for-the-badge)](https://github.com/edcres)
-[![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://github.com/edcres)
-[![GRADLE](https://img.shields.io/badge/gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge)](https://github.com/edcres)
-
-**More:**
-XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecycle, Logging, Moshi, Glide, Charting with MPAndroidChart, REST, Camera API, Image Storage
 
 ---
 
