@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&height=30&lines=👋+Welcome+to+My+Personal+Projects!;+I+am+Eduardo+Crespo,+Native+Android+Developer.)](https://git.io/typing-svg)
 
+---
+
 ### Tools and Skills:
 <!--https://simpleicons.org/-->
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://github.com/edcres)
