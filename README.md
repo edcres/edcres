@@ -45,7 +45,7 @@ Others:
 
 <p align="left" style="display:flex">
     <a href="https://github.com/edcres/crypto-market">
-        <img width=150 src="https://user-images.githubusercontent.com/79296181/189293780-6f1a9737-a379-4196-b21a-bb0be8479ab6.jpg" />
+        <img width=150 src="https://user-images.githubusercontent.com/79296181/194726761-c1a3f668-d1e0-4353-a97a-a50eff434dff.jpg" />
     </a>
     <a href="https://github.com/edcres/crypto-market">
         <img width=150 src="https://user-images.githubusercontent.com/79296181/189294490-87f06ae8-4ef3-4471-a478-7f44ab517c66.gif" />
