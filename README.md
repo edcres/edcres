@@ -48,6 +48,9 @@ Others:
         <img width=150 src="https://user-images.githubusercontent.com/79296181/194726761-c1a3f668-d1e0-4353-a97a-a50eff434dff.jpg" />
     </a>
     <a href="https://github.com/edcres/crypto-market">
+        <img width=150 src="https://user-images.githubusercontent.com/79296181/194971771-b0a3403f-4f87-4a36-a34b-719c8f541812.jpg" />
+    </a>
+    <a href="https://github.com/edcres/crypto-market">
         <img width=150 src="https://user-images.githubusercontent.com/79296181/189294490-87f06ae8-4ef3-4471-a478-7f44ab517c66.gif" />
     </a>
     <a href="https://github.com/edcres/crypto-market">
@@ -56,6 +59,12 @@ Others:
 </p>
 
 <p align="left" style="display:flex">
+    <a href="https://github.com/edcres/c-r-rentals">
+        <img width=150 src="https://user-images.githubusercontent.com/79296181/194972038-07b0fbbf-b7e1-47c2-9647-3bc44d9a63c9.jpg" />
+    </a>
+    <a href="https://github.com/edcres/c-r-rentals">
+        <img width=150 src="https://user-images.githubusercontent.com/79296181/194971800-5d937b20-f74a-4c86-bd24-91e57b3d55e9.jpg" />
+    </a>
     <a href="https://github.com/edcres/c-r-rentals">
         <img width=150 src="https://user-images.githubusercontent.com/79296181/183285510-cbbb301a-f828-4c8b-8020-4ed4b40741f3.gif" />
     </a>
