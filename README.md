@@ -29,7 +29,7 @@ XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecyc
 ### Android Applications:
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" />
+<!-- <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" /> -->
 
 Latest:
 - [Crypto Market](https://github.com/edcres/crypto-market): Lists over 2,000 crypto coins and displays their data including prices using charts. Among other things.
