@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-edcres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/eduardo-crespo-a63932247/)
 [![Gmail Badge](https://img.shields.io/badge/-crespoed07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](https://mail.google.com/mail/u/0/?fs=1&to=crespoed07@gmail.com&tf=cm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&height=30&lines=👋+Welcome+to+My+Personal+Projects!;+I+am+Eduardo+Crespo,+Native+Android+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&height=30&lines=👋+Welcome+to+My+Personal+Projects!;+I+am+Eduardo+Crespo,+Software+Developer.)](https://git.io/typing-svg)
 
 ---
 
@@ -26,7 +26,7 @@ XML, Room, Kotlin coroutines, Kotlin Flow, LiveData and Observers, Views Lifecyc
 
 ---
 
-### Android Applications:
+### Latest Projects:
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" /> -->
@@ -40,7 +40,7 @@ Others:
 - [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts based on sets and reps using 2 one-to-many SQLite relationships.
 - [Belt Tools](https://github.com/edcres/belt-tools): Compares an old app I created to help at a hardware job and an updated (simple) version.
 
-### My 2 latest apps:
+### 2 Recent apps:
 
 <p align="left" style="display:flex">
     <a href="https://github.com/edcres/crypto-market">
@@ -75,14 +75,13 @@ Others:
 ---
 
 ### ✨ About Me:
-    Native Android developer with a passion for finding software solutions to real-world problems.
-    I approach these problems with practical goals and attention to detail in a time efficient way.
+    Mobile developer with a passion for finding software solutions to real-world problems.
+    I approach these problems with practical goals and attention to detail.
     
-    My priority is to learn what's most useful to solve the challenge at hand.
-    When choosing a new project, I aim to challenge myself and learn new skills.
-    For the near future I'm interested in learning React Native or Flutter, and Jetpack compose.
+    My priority is to learn what's most useful for the current challenge.
+    When choosing a new project, I want to challenge myself and learn new skills.
     
-    Currently looking to collaborate on open source Android projects.
+    Currently looking to collaborate on open source projects.
     Preferably reach me on linked in.
 
 ![]()
