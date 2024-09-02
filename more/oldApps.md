@@ -3,11 +3,8 @@
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" /> -->
 
-Latest:
 - [Crypto Market](https://github.com/edcres/crypto-market): Lists over 2,000 crypto coins and displays their data including prices using charts. Among other things.
 - [Coral Reef Rentals](https://github.com/edcres/c-r-rentals): Keep track of rental items through captured images and more data about the item.
-
-Others:
 - [House Mate](https://github.com/edcres/house-mate): House mates share real time lists and more data through a remote firestore database.
 - [Gym Routine](https://github.com/edcres/gym-routine): Keep track of weight lifting workouts based on sets and reps using 2 one-to-many SQLite relationships.
 - [Belt Tools](https://github.com/edcres/belt-tools): Compares an old app I created to help at a hardware job and an updated (simple) version.
