@@ -47,15 +47,3 @@ Others:
 
 ---
 
-### ✨ About Me:
-    Mobile developer with a passion for finding software solutions to real-world problems.
-    I approach these problems with practical goals and attention to detail.
-    
-    My priority is to learn what's most useful for the current challenge.
-    When choosing a new project, I want to challenge myself and learn new skills.
-    
-    Currently looking to collaborate on open source projects.
-    Preferably reach me on linked in.
-
-![]()
-
