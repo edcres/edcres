@@ -1,5 +1,4 @@
 
-### Latest Projects:
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" /> -->
