@@ -33,10 +33,9 @@ XML, Room, Kotlin Flow and Coroutines, LiveData and Observers, Views Lifecycle, 
 ---
 
 ### ✨ About Me:
-    Mobile developer with a passion for finding software solutions to real-world problems.
-    I approach these problems with practical goals and attention to detail.
+    Mobile developer looking for software solutions to real-world problems.
     
-    My priority is to learn what's most useful for the current challenge.
+    My priority is to learn what's most useful for the challenge.
     When choosing a new project, I want to challenge myself and learn new skills.
     
     Preferably reach me on linked in.
