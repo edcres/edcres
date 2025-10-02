@@ -1,8 +1,5 @@
 <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
-[![Linkedin Badge](https://img.shields.io/badge/-edcres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/eduardo-crespo-a63932247/)
-[![Gmail Badge](https://img.shields.io/badge/-crespoed07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](https://mail.google.com/mail/u/0/?fs=1&to=crespoed07@gmail.com&tf=cm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&height=30&lines=👋+Welcome+to+My+Projects!;+I+am+Eduardo+Crespo,+Software+Developer.)](https://git.io/typing-svg)
 
 ---
 
@@ -26,9 +23,6 @@ XML, Room, Kotlin Flow and Coroutines, LiveData and Observers, Views Lifecycle, 
 ---
 
 - [Old Projects](https://github.com/edcres/edcres/blob/main/more/oldApps.md)
-
-<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
-<!-- <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcres&layout=compact&theme=chartreuse-dark&title_color=ffffff&langs_count=3" /> -->
 
 ---
 
